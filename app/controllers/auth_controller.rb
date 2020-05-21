@@ -13,14 +13,4 @@ class AuthController < ApplicationController
 
     end
 
-    def auto_login  
-
-        if session_user
-            render json: {user: session_user}
-        else
-            render json: {errors: "User not found. Please login again. "}
-        end
-        
-    end
-
 end
