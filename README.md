@@ -1,24 +1,13 @@
-# README
+# BetterThingsToDo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BetterThingsToDo is a venue recommender that takes into account two addresses and finds venues that are located between them for meetups.
 
-Things you may want to cover:
+[Frontend](https://github.com/zhaoj1/BetterThingsToDo)
 
-* Ruby version
+## Technologies
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+React.js    
+Ruby on Rails    
+[FourSquare Places API](https://developer.foursquare.com/places)    
+[OpenCage Geocoder API](https://opencagedata.com/)    
+[Google Maps API](https://developers.google.com/maps/documentation)    
