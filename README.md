@@ -11,3 +11,4 @@ Ruby on Rails
 [FourSquare Places API](https://developer.foursquare.com/places)    
 [OpenCage Geocoder API](https://opencagedata.com/)    
 [Google Maps API](https://developers.google.com/maps/documentation)    
+[GIMP](https://www.gimp.org/)    
